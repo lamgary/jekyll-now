@@ -6,4 +6,4 @@ permalink: /about/
 
 Welcome to my blog! I like to blog about Software Engineering, Technology and Programming. 
 
-I am [@lamgary](https://twitter.com/lamgary) on Twitter.
+Follow me on Twitter: [@lamgary](https://twitter.com/lamgary).
