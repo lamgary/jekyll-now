@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my blog! I like to blog about Software Engineering, Technology and Programming. 
 
-### More Information
+### Find me on Twitter
 
-A place to include any other types of information that you'd like to include about yourself.
+https://twitter.com/lamgary
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
